@@ -5,6 +5,6 @@ Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatur
 3. Se estiver em Celisus Então 
 4. resultado = temperatura * 1,8 + 32
 5. Então escreva o resultado 
-6. Senão Se tmeperatura estiver em Fahrenheit Então 
+6. Senão
 7. resultado = 1,8 + 32/temperatura 
 8. Então escreva o resultado
