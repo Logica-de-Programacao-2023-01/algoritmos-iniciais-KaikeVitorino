@@ -4,6 +4,6 @@ Algoritmo de busca linear: um algoritmo que procura por um determinado elemento 
 2. Ler elemento a ser buscado
 3. Inicializar uma variável "encontrado" com o valor "falso"
 4. Para cada elemento na lista, faça:
-  4.1. Se o elemento atual for igual ao elemento buscado, atualize a variável "encontrado" para "verdadeiro" e retorne a posição do elemento
+  4.1. Se o elemento atual = elemento buscado, atualize a variável "encontrado" para "verdadeiro" e retorne a posição do elemento
 5. Se a variavel "encontrado" estiver Verdadeiro apos o loop, Escreva "encontrado"
   5.1. Senao, escreva "não encontrado"
