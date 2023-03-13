@@ -2,7 +2,7 @@ Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média pon
 
 1. Leia lista de numeros 
 2. Leia os pesos dos respectivos numeros 
-3. Faça a somatoria dos numeros ponderados: (Nota1 * Peso1) + (Nota2 * Peso2) + (Nota3 * Peso3) + (NotaN * PesoN) = Y
+3. Faça a somatoria dos numeros ponderados: (Numero1 * Peso1) + (Numero2 * Peso2) + (Numero3 * Peso3) + (NumeroN * PesoN) = Y
    3.1 Escreva Y
 4. Faça a somatoria dos pesos: Peso1 + Peso2 + Peso 3 + Peso N = X
    4.1 Escreva X 
