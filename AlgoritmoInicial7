@@ -4,4 +4,4 @@ Algoritmo de verificação de número primo: um algoritmo que verifica se um nú
 2: para todos os valores entre 2 e x-1, Faça:
 3. Se x/valor_atual tem resto 0:
    3.1 Entao escreva "Nn eh primo"
-4. Senao, Escreva "Eh primo"
+4. Escreva "Eh primo"
