@@ -5,7 +5,7 @@ Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um n
 2. Leia determinada potencia
     2.1 Atribua a potencia à variavel p
 3. Se a = 0 e p ≤ 0, escreva "Mamemos para crlh"
-4. Senão, se a for a = 0, escreva "Resposta = 0"
+4. Senão, se a = 0, escreva "Resposta = 0"
 5. Senão, se p = 0, escreva "Resposta = 1" 
 6. Senão, faça R = a^p
 7. Escreva R
